@@ -1,6 +1,6 @@
 import React from 'react'
 import TaskManager from '../components/TaskManager';
-import ApiData from '../api/ApiData'
+import ApiData from '../pages/posts'
 
 export default function Home() {
   return (
